@@ -1,11 +1,12 @@
 import Header from "./Header";
 import Banner from "./Banner";
+import MealsSection from "./MealsSection";
 function App() {
   return (
-    <div>
+    <div className="bg-neutral-700 ">
       <Header></Header>
       <Banner />
-      <h2 className="text-blue-100 ">Let'ssss get started!</h2>
+      <MealsSection />
     </div>
   );
 }
