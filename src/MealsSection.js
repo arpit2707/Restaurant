@@ -32,7 +32,7 @@ const MealsSection = () => {
                     type="number"
                   />
                 </div>
-                <button className="rounded-md w-20 items-center font-bold m-2 h-6 text-white bg-orange-900 border-b border-gray-500 flex justify-center">
+                <button className="rounded-3xl  w-20 items-center font-bold m-2 h-6 text-white bg-orange-900 border-b border-gray-500 flex justify-center">
                   + Add
                 </button>
               </div>
